@@ -200,7 +200,7 @@ If you need to enable proguard in your app, put below rules to your proguard-rul
 ```
 ## License
 
-> Copyright 2017 eneim@Eneim Labs, nam@ene.im
+> Copyright 2020 tofik@solulab.com
 
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
