@@ -1,1 +1,1 @@
-# exoplayer-recyclerview-mvvm-livedata
+# CoolExoplayer-in-recyclerview-using-mvvm-livedata-

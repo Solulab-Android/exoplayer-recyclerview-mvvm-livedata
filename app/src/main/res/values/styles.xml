@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="fontFamily">@font/poppins</item>
+        <item name="colorPrimaryDark">@android:color/black</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="DebugText" parent="Widget.AppCompat.Button.Small">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+   </resources>
